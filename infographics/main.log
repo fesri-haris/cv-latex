@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.19)  21 AUG 2019 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.19)  21 AUG 2019 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1108,18 +1108,13 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
 
-Overfull \hbox (24.68044pt too wide) in paragraph at lines 356--535
+Overfull \hbox (5.95906pt too wide) in paragraph at lines 520--521
+ [] 
+ []
+
+
+Overfull \hbox (24.68044pt too wide) in paragraph at lines 356--532
 []$[]$ $[]$ $[]$ 
  []
 
@@ -1136,15 +1131,15 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.aux) ) 
 Here is how much of TeX's memory you used:
- 17544 strings out of 492982
- 352217 string characters out of 6134896
- 443395 words of memory out of 5000000
- 20722 multiletter control sequences out of 15000+600000
+ 17548 strings out of 492982
+ 352326 string characters out of 6134896
+ 441400 words of memory out of 5000000
+ 20726 multiletter control sequences out of 15000+600000
  154947 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,12n,67p,479b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on /home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf (1 page, 61447 bytes).
+Output written on /home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf (1 page, 61065 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

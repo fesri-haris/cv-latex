@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1566371874 "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex" "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf" "main" 1566371875
+["pdflatex"] 1566380592 "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex" "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf" "main" 1566380593
   "./g/barchart.tex" 1566367919 2569 7c83b0ac3a154bf60402544be5f4d6f5 ""
   "./g/bubbles.tex" 1566367919 1724 b7d462e9481c30feb82f2bf8c106f9e5 ""
   "./g/factbubble.tex" 1566367919 1823 8f34272dcd99b19ef1043c5d56f0ed89 ""
@@ -7,8 +7,8 @@
   "./g/squares.tex" 1566367919 1950 65bf2e0a012ce88ddd78a44bb1a21d22 ""
   "./g/timeline.tex" 1566367919 3960 a587ec633264b0053e9fae55160ff916 ""
   "/etc/texmf/web2c/texmf.cnf" 1566179400 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.aux" 1566371875 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex" 1566371873 18206 11b548c45855c2941688b903dc9de0d1 ""
+  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.aux" 1566380593 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex" 1566380592 18095 62d054f4c3b772bc3479790260676f6d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1480098667 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1480098667 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc" 1480098668 2956 e1fccf4917ff205596489dab079ad56f ""
@@ -172,13 +172,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1566179452 2700761 ac0584cc9514ab21918550a6948c4ee2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566179465 4127177 99ede3e9b8dbbbd33a14f5dd427ccd88 ""
-  "main.aux" 1566371875 8 a94a2480d3289e625eea47cd1b285758 ""
-  "main.tex" 1566371873 18206 11b548c45855c2941688b903dc9de0d1 ""
+  "main.aux" 1566380593 8 a94a2480d3289e625eea47cd1b285758 ""
+  "main.tex" 1566380592 18095 62d054f4c3b772bc3479790260676f6d ""
   (generated)
-  "main.pdf"
-  "main.aux"
-  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf"
   "main.log"
   "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.log"
-  "/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.log"
-  "/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.pdf"
+  "main.aux"
+  "main.pdf"
+  "/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf"
