@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.19)  21 AUG 2019 14:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.19)  21 AUG 2019 14:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.tex
-(/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.tex
+**/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex
+(/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -815,21 +815,21 @@ File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
 \pgf@layerboxsaved@background=\box59
 )
 \GPT@outputbox=\box60
- (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/piechart.tex
+ (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/piechart.tex
 \c@a=\count114
 \c@b=\count115
 \c@c=\count116
-) (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/barchart.tex
+) (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/barchart.tex
 \c@barcount=\count117
-) (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/bubbles.tex) (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/squares.tex) (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/timeline.tex
+) (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/bubbles.tex) (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/squares.tex) (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/timeline.tex
 \c@yearcount=\count118
 \c@leftcount=\count119
-) (/home/aulianbasira/Documents/GitHub/latexcv/infographics/./g/factbubble.tex)
+) (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/./g/factbubble.tex)
 
 LaTeX Warning: Unused global option(s):
     [A4].
 
-(/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.aux)
+(/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 320.
@@ -1134,17 +1134,17 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/aulianbasira/Documents/GitHub/latexcv/infographics/main.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.aux) ) 
 Here is how much of TeX's memory you used:
  17544 strings out of 492982
- 352195 string characters out of 6134896
- 443388 words of memory out of 5000000
+ 352217 string characters out of 6134896
+ 443395 words of memory out of 5000000
  20722 multiletter control sequences out of 15000+600000
  154947 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,67p,478b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,67p,479b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/impallari/raleway/Raleway-Regular.pfb>
-Output written on /home/aulianbasira/Documents/GitHub/latexcv/infographics/main.pdf (1 page, 61447 bytes).
+Output written on /home/aulianbasira/Documents/GitHub/cv-latex/infographics/main.pdf (1 page, 61447 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
